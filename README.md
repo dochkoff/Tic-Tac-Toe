@@ -38,7 +38,7 @@ The winner will be announced.
 [Source code of the project](TicTacToe.cs)
 
 ## Screenshots
-<img width="300" alt="SS1" src="https://user-images.githubusercontent.com/74410756/216659663-f0edfb9a-5a02-46ef-800b-1c8a36522195.png"> <img width="300" alt="SS2" src="https://user-images.githubusercontent.com/74410756/216659660-ae0464e2-749a-4196-b38a-84d7a193907b.png"> <img width="300" alt="SS3" src="https://user-images.githubusercontent.com/74410756/216659649-dc740c54-8d51-42ee-b6e1-225c10de83a8.png">
+<img width="250" alt="SS1" src="https://user-images.githubusercontent.com/74410756/216659663-f0edfb9a-5a02-46ef-800b-1c8a36522195.png"> <img width="250" alt="SS2" src="https://user-images.githubusercontent.com/74410756/216659660-ae0464e2-749a-4196-b38a-84d7a193907b.png"> <img width="250" alt="SS3" src="https://user-images.githubusercontent.com/74410756/216659649-dc740c54-8d51-42ee-b6e1-225c10de83a8.png">
 
 ## One-Click Live Demo
 
