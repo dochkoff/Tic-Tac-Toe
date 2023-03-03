@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
- Console implementation of the game "RTic-Tac-Toe".
+ Console implementation of the game "Tic-Tac-Toe".
 
 <p>
 <img alt="Image" width="350"px src="https://user-images.githubusercontent.com/74410756/216642677-5cd92b8b-302f-496b-9301-6674fe525057.jpg">
